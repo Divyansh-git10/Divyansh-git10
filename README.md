@@ -7,7 +7,7 @@
 
 - 🔭 I'm an AI Developer with a passion for building **LLM applications**, **speech interfaces**, and **real-time computer vision systems**.
 - 🧠 I work on **RAG-based QA bots**, **voice-to-voice assistants**, **emotion detection**, and **sports player re-identification**.
-- ⚡ Known for turning complex research ideas into production-ready systems — even under tight deadlines.
+- ⚡ Try turning complex research ideas into production-ready systems — even under tight deadlines.
 
 ---
 
