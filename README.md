@@ -34,15 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-git10&show_icons=true&theme=radical" alt="Divyansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-git10&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/divyansh-gautam-985610256 )
