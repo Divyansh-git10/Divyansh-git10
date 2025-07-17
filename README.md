@@ -45,9 +45,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/divyansh-gautam/)
-- 📧 Email: divyanshgautam10@gmail.com
-- 🧑‍💻 Portfolio/Blog: Coming soon!
+- 💼 [LinkedIn](https://www.linkedin.com/in/divyansh-gautam-985610256 )
+- 📧 Email: divyanshgautam0410@gmail.com
 
 ---
 
