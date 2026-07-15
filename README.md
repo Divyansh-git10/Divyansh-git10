@@ -1,46 +1,41 @@
-<h1 align="center">Hi 👋, I'm Divyansh Gautam</h1>
-<h3 align="center">Building Practical AI Systems with Impact</h3>
+<h1 align="center">Divyansh Gautam</h1>
+
+<p align="center"><b>AI Engineer</b> · GenAI · LLMs · RAG · Agentic Systems · Computer Vision</p>
 
 ---
 
-### 🚀 About Me
+### 🚀 About
 
-- 🔭 I'm an AI Developer with a passion for building **LLM applications**, **speech interfaces**, and **real-time computer vision systems**.
-- 🧠 I work on **RAG-based QA bots**, **voice-to-voice assistants**, **emotion detection**, and **sports player re-identification**.
-- ⚡ Try turning complex research ideas into production-ready systems — even under tight deadlines.
+I'm an **AI Engineer** who builds production-oriented AI systems — LLM, RAG, and multi-agent pipelines — with a solid computer-vision background. I care about the engineering *behind* the models: systems that are **evidence-grounded, tested, and genuinely deployable** — not just notebooks.
 
----
-
-### 🛠️ Tech Stack & Domains
-
-- **LLM & NLP**: OpenAI API, LangChain, Pinecone, RAG, prompt engineering  
-- **Speech**: Real-time speech recognition, TTS, emotion classification  
-- **Vision**: YOLOv8/YOLOv11, DeepSORT, ByteTrack, image forgery detection  
-- **Backend**: FastAPI, Flask, REST APIs  
-- **Tools**: Streamlit, Docker, Git, GitHub Actions  
-- **Languages**: Python, JavaScript
+My professional experience spans production LLM and multi-agent systems, voice-to-voice assistants, and document-intelligence pipelines. Much of that work is client- or employer-owned and isn't public — **the repositories here apply the same engineering standards to projects I can share openly.**
 
 ---
 
-### 📌 Featured Projects
+### 🛠️ Technologies I work with
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🧠 Retail RAG QA Bot](https://github.com/Divyansh-git10/Retail-RAG-QA-Bot) | Search retail documents using RAG + OpenAI + Pinecone | LangChain, FastAPI, Streamlit |
-| [📊 Lead Scoring Engine](https://github.com/Divyansh-git10/Lead-scoring) | Classifies leads with ML + LLM re-ranking | FastAPI, GradientBoosting, React |
-| [⚽ Soccer Player Re-ID](https://github.com/Divyansh-git10/playertracking) | Tracks players in a video using YOLOv11 + ByteTrack | CV, Tracking, Re-ID |
-| [🎙️ Speech Emotion Detection](https://github.com/Divyansh-git10/Speech-Emotion-Detection) | Classifies real-time voice emotions using deep learning | Streamlit, Deep Learning |
-| [🕵️ Image Forgery Detection](https://github.com/Divyansh-git10/Image-Forgery-Detection) | Detects tampered images using VGG16, ResNet, MobileNet | CNNs, Keras |
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/divyansh-gautam-985610256 )
-- 📧 Email: divyanshgautam0410@gmail.com
+- **GenAI & LLMs** — OpenAI API · Ollama · OpenRouter · Groq · Gemini · RAG · DSPy · prompt engineering
+- **Agentic Systems** — multi-agent orchestration · tool use · CrewAI · n8n · evaluation & validation
+- **Retrieval & Vector Search** — FAISS · Pinecone · Sentence-Transformers
+- **Document AI** — Azure Document Intelligence
+- **Computer Vision** — YOLOv11 · ByteTrack / BoT-SORT · OpenCV · TensorFlow / Keras
+- **Backend & MLOps** — FastAPI · SQLAlchemy · Streamlit · Docker · pytest · GitHub Actions · Railway
+- **Languages** — Python · JavaScript
 
 ---
 
-<p align="center">
-  Built with ❤️ by <strong>Divyansh Gautam</strong>
-</p>
+### ⭐ Selected Work
+
+A couple of highlights from my public repositories — the full set is pinned below:
+
+- **FitNova — Sales-Call Intelligence** — a local-first speech→LLM analytics platform (transcription, diarization, evidence-grounded scoring and issue detection) exposed through a FastAPI API, a Typer CLI, and a Streamlit dashboard over one shared data layer, backed by a full test suite.
+- **Suproc AI Agent** — a safe, deterministic agentic workflow whose validator independently re-derives every recommendation from the source data, with prompt-injection handling and a mandatory human-approval gate.
+
+↳ More — a deployed RAG + memory agent, a production RAG service, a multi-agent document-QA system, and computer-vision work — in the **pinned repositories** below.
+
+---
+
+### 📬 Connect
+
+- **LinkedIn** — [linkedin.com/in/divyansh-gautam](https://www.linkedin.com/in/divyansh-gautam-985610256)
+- **Email** — divyansh0410@gmail.com
